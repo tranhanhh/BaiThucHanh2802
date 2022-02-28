@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch App6",
+            "request": "launch",
+            "mainClass": "com.example.Baithuchanh2802.App6",
+            "projectName": "BaiThucHanh2802_b91c732f"
+        },
+        {
+            "type": "java",
+            "name": "Launch App4",
+            "request": "launch",
+            "mainClass": "com.example.Baithuchanh2802.App4",
+            "projectName": "BaiThucHanh2802_b91c732f"
+        },
+        {
+            "type": "java",
+            "name": "Launch App3",
+            "request": "launch",
+            "mainClass": "com.example.Baithuchanh2802.App3",
+            "projectName": "BaiThucHanh2802_b91c732f"
+        },
+        {
+            "type": "java",
+            "name": "Launch App2",
+            "request": "launch",
+            "mainClass": "com.example.Baithuchanh2802.App2",
+            "projectName": "BaiThucHanh2802_b91c732f"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App1",
+            "request": "launch",
+            "mainClass": "com.example.Baithuchanh2802.App1",
+            "projectName": "BaiThucHanh2802_b91c732f"
+        }
+    ]
+}
